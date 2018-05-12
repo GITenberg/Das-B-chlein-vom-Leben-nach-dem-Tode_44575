@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42821
     wikipedia: https://en.wikipedia.org/wiki/Gustav_Fechner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44575#Das-B-chlein-vom-Leben-nach-dem-Tode
 gutenberg_issued: '2014-01-03'
 gutenberg_type: Text
 identifiers:
